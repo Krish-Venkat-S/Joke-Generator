@@ -7,6 +7,7 @@
 <li>Javascript</li>
 </ul>
 
+works fine on local host but unable to deploy
 to run
 
 npm i
